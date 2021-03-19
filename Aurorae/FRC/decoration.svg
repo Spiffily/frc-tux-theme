@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
      id="namedview57"
      showgrid="false"
      inkscape:zoom="3.2152224"
@@ -182,7 +182,7 @@
        xlink:href="#linearGradient2643-6" />
   </defs>
   <path
-     style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.8"
      id="decoration-center"
      d="m 101,101 v 98 h 98 v -98 z" />
   <g
@@ -193,7 +193,7 @@
        id="path5066"
        d="m 81,853.36216 v 98 h 6 v -98 z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:0.8"
        id="path5064"
        d="m 101,951.36156 v -97.9994 H 86 v 98 z" />
   </g>
@@ -201,7 +201,7 @@
      id="decoration-top"
      transform="translate(0,-752.36216)">
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88800001"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88800001;opacity:0.8"
        id="path1620"
        d="M 101.00061,853.36216 H 199 v -18 h -98 z" />
     <path
@@ -217,7 +217,7 @@
        id="path1628"
        d="m 101,971.36216 h 98 v -15 h -98 z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51200002"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51200002;opacity:0.8"
        id="path1626"
        d="M 198.9994,951.36216 H 101 v 6 h 98 z" />
   </g>
@@ -233,7 +233,7 @@
        id="path1818"
        d="M 101,971.36216 H 81 v -20 h 5.714286 c 0,4.28571 1.428572,5.71429 5.714287,5.71429 H 101 Z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
        id="path1816"
        d="m 101,957.36216 h -8.999999 c -4.5,0 -6.000001,-1.5 -6.000001,-6 h 15 z" />
   </g>
@@ -249,7 +249,7 @@
        id="path5072"
        d="M 101,833.36216 H 81 v 20 h 5.714287 v -11.42858 c 0,-4.28571 1.428571,-5.71428 5.714286,-5.71428 H 101 Z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
        id="path5070"
        d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z" />
   </g>
@@ -261,7 +261,7 @@
        id="path5018"
        d="m 81,853.36216 v 98 h 6 v -98 z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72500002;opacity:0.8"
        id="path5020"
        d="m 101,951.36156 v -97.9994 H 86 v 98 z" />
   </g>
@@ -277,7 +277,7 @@
        id="path5026"
        d="M 101,833.36216 H 81 v 20 h 5.714287 v -11.42858 c 0,-4.28571 1.428571,-5.71428 5.714286,-5.71428 H 101 Z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
        id="path5028"
        d="M 101,835.36216 H 92.000001 C 87.5,835.36216 86,836.86216 86,841.36215 v 12.00001 h 15 z" />
   </g>
@@ -293,7 +293,7 @@
        id="path5040"
        d="M 101,971.36216 H 81 v -20 h 5.714286 c 0,4.28571 1.428572,5.71429 5.714287,5.71429 H 101 Z" />
     <path
-       style="fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001"
+       style="fill:#3b4252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46200001;opacity:0.8"
        id="path5042"
        d="m 101,957.36216 h -8.999999 c -4.5,0 -6.000001,-1.5 -6.000001,-6 h 15 z" />
   </g>
